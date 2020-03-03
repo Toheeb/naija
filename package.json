@@ -1,0 +1,26 @@
+{
+  "name": "@toheeb/naija",
+  "version": "0.0.1",
+  "description": "An utility library about Nigeria",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toheeb/naija.git"
+  },
+  "keywords": [
+    "nigeria",
+    "state",
+    "lga",
+    "town"
+  ],
+  "author": "Toheeb Ogunbiyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toheeb/naija/issues"
+  },
+  "homepage": "https://github.com/Toheeb/naija#readme"
+}
