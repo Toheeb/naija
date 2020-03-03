@@ -1,5 +1,8 @@
 {
   "name": "@toheeb/naija",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.0.1",
   "description": "An utility library about Nigeria",
   "main": "index.js",
