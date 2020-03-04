@@ -1,1 +1,1 @@
-export {locations} from 'locations';
+export {locations} from './locations/index.js';
